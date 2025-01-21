@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"ScrHandlePlatformDescend",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ScrHandlePlatformDescend",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

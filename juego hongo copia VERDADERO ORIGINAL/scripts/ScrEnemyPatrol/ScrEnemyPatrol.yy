@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"ScrEnemyPatrol",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ScrEnemyPatrol",
+  "parent":{
+    "name":"enemy",
+    "path":"folders/Scripts/enemy.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

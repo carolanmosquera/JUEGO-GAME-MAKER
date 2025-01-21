@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"ScrChechGravity",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ScrChechGravity",
+  "parent":{
+    "name":"characters",
+    "path":"folders/Scripts/characters.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

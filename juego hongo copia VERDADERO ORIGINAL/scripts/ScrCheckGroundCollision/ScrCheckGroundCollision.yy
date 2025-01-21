@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"ScrCheckGroundCollision",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ScrCheckGroundCollision",
+  "parent":{
+    "name":"characters",
+    "path":"folders/Scripts/characters.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

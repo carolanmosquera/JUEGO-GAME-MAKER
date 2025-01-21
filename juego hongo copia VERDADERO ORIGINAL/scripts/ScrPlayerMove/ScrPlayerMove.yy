@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"ScrPlayerMove",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ScrPlayerMove",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
